@@ -108,5 +108,4 @@ column secara horizontal dan row secara vertical
 - `grid-template-columns: {n} {m} {i} {j} ...`, {n, m, i, j, ...} = membuat x column, dengan masing-masing column memiliki ukuran n, m, i, j, dan ... sendiri
 - `grid-template-rows: {n} {m} {i} {j} ...`, {n, m, i, j, ...} = membuat x row, dengan masing-masing row memiliki ukuran n, m, i, j, dan ... sendiri
 - `grid-template-rows: repeat(4, {n} fr)`, contoh untuk mengulang pembagian row dengan ukuran yang sama
-- `grid-template-areas:` menetukan layout untuk teks
-> 
+- `grid-template-areas:` menetukan layout untuk teks 
